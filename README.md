@@ -1,5 +1,5 @@
 # Character-Device-Driver_EEL5733
-
+--------------------------------------------------------------------------------------------------------------------------------
 This is an assignment for course EEL5733 UF
 --------------------------------------------------------------------------------------------------------------------------------
 In this assignment, you’ll change the Linux USB Keyboard driver to change the way the CAPSLOCK led is
@@ -23,4 +23,3 @@ implementation. You can test your driver on a virtual machine, e.g., Virtual Box
 checking the status of your led keys and the characters you type on the terminal. Make sure to
 write a message to the kernel log when mode changes happen to facilitate testing of your
 driver.
-You will submit your driver code, a Makefile, and a README file on CANVAS.
