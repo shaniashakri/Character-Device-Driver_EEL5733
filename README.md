@@ -2,8 +2,7 @@
 
 This is an assignment for course EEL5733 UF
 --------------------------------------------------------------------------------------------------------------------------------
-In this assignment, you’ll change the Linux USB Keyboard driver (see http://lxr.free-
-electrons.com/source/drivers/hid/usbhid/usbkbd.c) to change the way the CAPSLOCK led is
+In this assignment, you’ll change the Linux USB Keyboard driver to change the way the CAPSLOCK led is
 turned on.
 In the original driver, the CAPSLOCK led is turned on when the CAPSLOCK key is pressed the first
 time and is turned off when it is pressed again, and is on again when it is pressed the next time,
